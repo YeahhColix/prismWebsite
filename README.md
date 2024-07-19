@@ -1,4 +1,7 @@
-<p align="center">
+> [!IMPORTANT]  
+> This repository has been moved to [PrismGDPS/website](https://github.com/prismgdps/website)<br>
+> This repository is no longer maintained.
+ <p align="center">
 	<img src="/vault/prismCenteredHeader.png" />
 	<h3 align="center">
 		prismWebsite
